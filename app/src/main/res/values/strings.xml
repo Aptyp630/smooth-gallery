@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmoothGallery</string>
+    <string name="err_network">Please check your network connection</string>
+    <string name="name">Name</string>
+    <string name="camera">Camera</string>
+    <string name="author">Author</string>
+    <string name="url">Url</string>
+</resources>
